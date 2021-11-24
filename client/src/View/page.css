@@ -1,0 +1,10 @@
+.Stations {
+   width: 1200px;
+   margin: 0 auto; 
+}
+.selectFrom{
+    display: inline;
+}
+.selectTo{
+    display: inline;
+}

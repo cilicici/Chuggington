@@ -1,0 +1,21 @@
+{
+    "extends": "airbnb",
+    "rules":
+    {
+      "import/extensions": [
+        "error",
+        "ignorePackages",
+        {
+          "js": "allways",
+          "jsx": "allways",
+          "ts": "allways",
+          "tsx": "allways"
+        }
+     ]
+    },
+    "settings": {
+      "react": {
+          "version": "latest"
+      }
+  }
+}
